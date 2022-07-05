@@ -1,0 +1,241 @@
+body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#clacul{
+    background-color: rgba(40, 155, 184, 0.664);
+    height: 370px;
+    width: 400px;
+    border: none;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#resultat{
+    height: 35px;
+    width: 392px;
+}
+#number1{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number2{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number3{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number4{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number5{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number6{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number7{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number7:hover{
+    background-color: gray;
+}
+#number6:hover{
+    background-color: gray;
+}
+#number5:hover{
+    background-color: gray;
+}
+#number1:hover{
+    background-color: gray;
+}
+#number2:hover{
+    background-color: gray;
+}
+#number3:hover{
+    background-color: gray;
+}
+#number4:hover{
+    background-color: gray;
+}
+#number8:hover{
+    background-color: gray;
+}
+#number9:hover{
+    background-color: gray;
+}
+#number12:hover{
+    background-color: gray;
+}
+#egal:hover{
+    background-color: gray;
+}
+#number8{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#number9{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#numbers{
+    width: 100%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+} 
+#supp_one{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#supp_one888{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#supp_one777{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#supp_one99{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#supp_one_1{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#supp_one10_{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-right: 20px;
+}
+#supp_one10{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-right: 20px;
+}
+#supp_one110{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-right: 20px;
+}
+#supp_one1{
+    height: 50px;
+    width: 50px;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#numbers11{
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+#number12{
+    height: 50px;
+    width: 50px;
+    margin-left: 80px;
+    margin-top:5px ;
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+#egal{
+    height: 50px;
+    width: 70%;
+    font-weight: 500;
+    font-size: 25px;
+    border: none;
+    background-color: rgb(153, 101, 33);
+}
+#egal_total{
+    margin-top: 7px;
+    margin-left: 80px;
+}
